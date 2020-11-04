@@ -5,6 +5,9 @@ logs/
 results/
 temp/
 test/
+train/
+train2/
+train.tar.gz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
